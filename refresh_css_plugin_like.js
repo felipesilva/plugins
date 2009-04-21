@@ -12,6 +12,6 @@
 	}
 })(jQuery);
 
-$().ready(function(){
+$(function(){
 	$('link[rel="stylesheet"]').refreshCSS().;
 })
